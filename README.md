@@ -14,6 +14,6 @@ Delete Unused Columns: Remove columns that are no longer needed in the dataset.
 To import data using OPENROWSET and BULK INSERT, ensure the server is configured properly.
 
 ## Usage
-Clone the repository.
-Open the SQL scripts in your SQL Server Management Studio.
-Execute the scripts in the provided order.
+1. Clone the repository to your local machine using `git clone`
+2. Open the `.sql` file using SQL Server Management Studio or any SQL IDE of your choice.
+3. Run the script in an environment connected to a SQL database.
